@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTunesTools", "iTunesTools\iTunesTools.csproj", "{E3A48B65-25D9-4092-8222-723FA1C72090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "Controls\CustomControls.csproj", "{74AD90C1-DE3F-43EB-8E48-7AF247785533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItunesCache", "ItunesCache\ItunesCache.csproj", "{B87D1C08-F94F-49BB-9B87-7FC1890E3018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItunesCache.Tests", "ItunesCache.Tests\ItunesCache.Tests.csproj", "{793C8EF5-ECE0-49BC-9556-3B3690B330C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWinFormsApp", "TestWinFormsApp\TestWinFormsApp.csproj", "{2C9BF2F0-D978-4C8A-91F0-2A2205750825}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj", "{65442FEF-0F5A-45FA-824C-4CECF5A7E030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A48B65-25D9-4092-8222-723FA1C72090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A48B65-25D9-4092-8222-723FA1C72090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A48B65-25D9-4092-8222-723FA1C72090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A48B65-25D9-4092-8222-723FA1C72090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74AD90C1-DE3F-43EB-8E48-7AF247785533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74AD90C1-DE3F-43EB-8E48-7AF247785533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74AD90C1-DE3F-43EB-8E48-7AF247785533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74AD90C1-DE3F-43EB-8E48-7AF247785533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87D1C08-F94F-49BB-9B87-7FC1890E3018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87D1C08-F94F-49BB-9B87-7FC1890E3018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87D1C08-F94F-49BB-9B87-7FC1890E3018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87D1C08-F94F-49BB-9B87-7FC1890E3018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{793C8EF5-ECE0-49BC-9556-3B3690B330C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{793C8EF5-ECE0-49BC-9556-3B3690B330C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{793C8EF5-ECE0-49BC-9556-3B3690B330C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{793C8EF5-ECE0-49BC-9556-3B3690B330C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9BF2F0-D978-4C8A-91F0-2A2205750825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9BF2F0-D978-4C8A-91F0-2A2205750825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9BF2F0-D978-4C8A-91F0-2A2205750825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9BF2F0-D978-4C8A-91F0-2A2205750825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65442FEF-0F5A-45FA-824C-4CECF5A7E030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65442FEF-0F5A-45FA-824C-4CECF5A7E030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65442FEF-0F5A-45FA-824C-4CECF5A7E030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65442FEF-0F5A-45FA-824C-4CECF5A7E030}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
